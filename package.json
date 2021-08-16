@@ -8,7 +8,6 @@
     "README.md",
     "android",
     "index.js",
-    "ios",
     "react-native-my-rct-library.podspec"
   ],
   "scripts": {
@@ -16,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-my-rct-library.git",
-    "baseUrl": "https://github.com/github_account/react-native-my-rct-library"
+    "url": "git+https://github.com/sbuDiction/RCT-Native-Modules.git",
+    "baseUrl": "https://github.com/sbuDiction/RCT-Native-Modules.git"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Sibusiso",
+    "email": "sbudiction@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
